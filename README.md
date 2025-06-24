@@ -1,2 +1,2 @@
 # Strontium
-Database for the Celestite chat app!
+Database for the Zentra chat app!
